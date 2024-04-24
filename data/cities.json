@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "8631",
+      "cityName": "Vila Vicosa",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-04-08T13:07:48.310Z",
+      "notes": "",
+      "position": {
+        "lat": "38.788345355085625",
+        "lng": "-7.250976562500001"
+      }
+    },
+    {
+      "id": "daa5",
+      "cityName": "Alcobaca",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-04-23T17:05:14.971Z",
+      "notes": "",
+      "position": {
+        "lat": "39.54641191968671",
+        "lng": "-8.953857421875002"
+      }
+    },
+    {
+      "id": "94ba",
+      "cityName": "Setubal",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-04-23T17:07:13.416Z",
+      "notes": "",
+      "position": {
+        "lat": "38.50948995925553",
+        "lng": "-8.849487304687502"
+      }
+    },
+    {
+      "id": "597c",
+      "cityName": "Bolanos de Calatrava",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-23T17:26:00.610Z",
+      "notes": "",
+      "position": {
+        "lat": "38.87392853923632",
+        "lng": "-3.6035156250000004"
+      }
+    },
+    {
+      "id": "743e",
+      "cityName": "Las Pedroneras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-23T17:26:04.105Z",
+      "notes": "",
+      "position": {
+        "lat": "39.47436547486121",
+        "lng": "-2.6257324218750004"
+      }
+    },
+    {
+      "id": "9971",
+      "cityName": "Erba",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-04-23T17:32:05.981Z",
+      "notes": "NOICE!",
+      "position": {
+        "lat": "45.807743127853804",
+        "lng": "9.213409423828127"
+      }
+    }
+  ]
+}
