@@ -1,9 +1,9 @@
-import PageNav from "../components/PageNav";
-import styles from "./Login.module.css";
 import { useEffect, useState } from "react";
-import Button from "../components/Button";
-import { useAuth } from "../contexts/FakeAuthContext";
 import { useNavigate } from "react-router-dom";
+import Button from "../components/Button";
+import PageNav from "../components/PageNav";
+import { useAuth } from "../contexts/FakeAuthContext";
+import styles from "./Login.module.css";
 
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
@@ -29,6 +29,7 @@ export default function Login() {
   return (
     <main className={styles.login}>
       <PageNav />
+
       <form className={styles.form} onSubmit={handleSubmit}>
         <div className={styles.row}>
           <label htmlFor="email">Email address</label>
